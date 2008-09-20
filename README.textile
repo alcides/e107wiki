@@ -1,0 +1,5 @@
+h1. e107 wiki
+
+This is a wiki plugin for the "e107 CMS":http://e107.org.
+
+It is licensed under WTFPL, and it was written by "Alcides Fonseca":http://alcidesfonseca.com.
